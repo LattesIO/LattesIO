@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LattesIO
+- 👀 I’m interested in  programar
+- 🌱 I’m currently learning  PHP /LINUX
+- 💞️ I’m looking to collaborate on  PHP
+- 📫 How to reach me @LattesIO
